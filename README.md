@@ -7,4 +7,7 @@ Starting Command of a Parser is same as mentioned in document which is:
 
 Starting point of a Log Parser is: Parser.ts
 
+Properly follow OOD concepts in this program.
+
+
 
