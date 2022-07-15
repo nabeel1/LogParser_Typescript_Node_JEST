@@ -1,8 +1,9 @@
 import { FileClass } from "./FileClass";
 import { ArgClass } from "./ArgClass";
 
+class Parser{
 
-export function Main(){
+    public Main(): void{
 
     var File_Name_Arg:string[] = [];
     let arg_obj = new ArgClass();   //Class for getting command line arg
@@ -19,5 +20,7 @@ export function Main(){
     
 
 }
+}
 
-Main(); // starting point of a file
+var P_Obj = new Parser();
+P_Obj.Main(); // starting point of a file
