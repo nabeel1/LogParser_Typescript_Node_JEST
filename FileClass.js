@@ -1,7 +1,7 @@
 "use strict";
 exports.__esModule = true;
 exports.FileClass = void 0;
-var StringClass_1 = require("../StringClass");
+var StringClass_1 = require("./StringClass");
 var fs = require('fs');
 var FileClass = /** @class */ (function () {
     function FileClass() {

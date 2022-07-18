@@ -1,7 +1,7 @@
 "use strict";
 exports.__esModule = true;
 exports.StringClass = void 0;
-var ErrorDataClass_1 = require("../ErrorDataClass");
+var ErrorDataClass_1 = require("./ErrorDataClass");
 var StringClass = /** @class */ (function () {
     function StringClass() {
     }
