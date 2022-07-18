@@ -1,5 +1,7 @@
 # LogParser_Typescript_Node
 
+Compile command: tsc parser.ts
+
 Starting Command of a Parser is same as mentioned in document which is:
 
 # > node parser.js --input ./app.log --output ./errors.json
