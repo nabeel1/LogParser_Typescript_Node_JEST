@@ -13,4 +13,9 @@ it('File Class Method checking', () => {
         ])
       );  
 
+      var users : string [] = ["",""];
+      var myoutputname : string ="./errors.json";
+
+      expect(cc.WriteFile(users,myoutputname)).toBe(void 0);
+
 });
