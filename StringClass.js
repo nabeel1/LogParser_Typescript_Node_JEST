@@ -5,6 +5,8 @@ var ErrorDataClass_1 = require("./ErrorDataClass");
 var StringClass = /** @class */ (function () {
     function StringClass() {
     }
+    StringClass.prototype.StringClass = function () {
+    };
     StringClass.prototype.StringRead = function (myString) {
         var Error_Data_Obj = new ErrorDataClass_1.ErrorDataClass("", "", 0);
         var ISO_Date = myString.substr(0, myString.indexOf(' '));

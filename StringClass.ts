@@ -2,7 +2,7 @@ import { ErrorDataClass } from "./ErrorDataClass";
 
 export class StringClass {
 
-    public constructor() {
+    public StringClass() {
     }
 
     public StringRead(myString:string): string {
