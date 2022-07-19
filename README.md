@@ -12,4 +12,7 @@ Starting point of a Log Parser is: Parser.ts
 Properly follow OOD concepts in this program.
 
 
+For testing used JEST Library.
+
+
 
