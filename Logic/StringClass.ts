@@ -1,4 +1,4 @@
-import { ErrorDataClass } from "./ErrorDataClass";
+import { ErrorDataClass } from "../Model/ErrorDataClass";
 
 export class StringClass {
 

@@ -1,7 +1,7 @@
 "use strict";
 exports.__esModule = true;
-var FileClass_1 = require("./FileClass");
-var ArgClass_1 = require("./ArgClass");
+var FileClass_1 = require("./Logic/FileClass");
+var ArgClass_1 = require("./Logic/ArgClass");
 var Parser = /** @class */ (function () {
     function Parser() {
     }

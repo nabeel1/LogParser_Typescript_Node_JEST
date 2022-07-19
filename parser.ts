@@ -1,5 +1,5 @@
-import { FileClass } from "./FileClass";
-import { ArgClass } from "./ArgClass";
+import { FileClass } from "./Logic/FileClass";
+import { ArgClass } from "./Logic/ArgClass";
 
 class Parser{
 
